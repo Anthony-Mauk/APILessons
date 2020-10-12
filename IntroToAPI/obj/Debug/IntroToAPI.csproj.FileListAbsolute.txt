@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\bin\Debug\IntroToAPI.exe.config
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\bin\Debug\IntroToAPI.exe
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\bin\Debug\IntroToAPI.pdb
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\obj\Debug\IntroToAPI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\obj\Debug\IntroToAPI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\obj\Debug\IntroToAPI.exe
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\obj\Debug\IntroToAPI.pdb
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\BlueBadge\API_Lessons\IntroToAPI\obj\Debug\IntroToAPI.csproj.CopyComplete
