@@ -55,5 +55,16 @@ namespace IntroToAPI.Models
             return null;
         }
         //make a generic search method
+        public async Task<SearchResult<Vehicle>> GetVehicleSearchAsync(string query)
+        {
+
+            HttpResponseMessage response = await _httpClient.GetAsync
+                ("https://swapi.dev/api/people/?search=" + query);
+            if (response.IsSuccessStatusCode)
+            {
+                return await response.Content.ReadAsAsync<SearchResult<Vehicle>>();
+            }
+            return default;
+        }
     }
 }
